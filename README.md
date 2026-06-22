@@ -1,6 +1,9 @@
 # OpenFlighController
 A Pixhawk-like flight controller made from scratch for fun, using an STM32H743 main flight MCU, a dedicated IO MCU, redundant motion sensors, barometers, CAN, Ethernet, SD logging, FRAM storage, and protected aircraft I/O.
 
+<img width="1013" height="638" alt="image" src="https://github.com/user-attachments/assets/1019e9f5-a65e-44e4-9d5f-c5e1656152b9" />
+<img width="726" height="548" alt="image" src="https://github.com/user-attachments/assets/9d7cb7ee-081a-48d6-a15b-4174e44a4c4a" />
+
 **OpenFlightController** is my attempt at designing a complete drone flight controller from the ground up instead of using an existing board. **The goal of this project was to understand how real flight-controller hardware is built:** power rails, IMU redundancy, MCU pin planning, sensor buses, protected I/O, CAN, USB, Ethernet, storage, and dense PCB routing.
 
 ### Project Status
@@ -195,3 +198,15 @@ SBUS needs special handling because it is commonly inverted compared to normal U
 
 ## Screenshots
 
+<img width="805" height="608" alt="image" src="https://github.com/user-attachments/assets/7c25f677-9630-4b07-95b4-21a566dbc41d" />
+<img width="889" height="605" alt="image" src="https://github.com/user-attachments/assets/acfcac7c-ded0-4a32-9a07-a6cecfe3c508" />
+<img width="928" height="580" alt="image" src="https://github.com/user-attachments/assets/a7863a98-84f0-484e-aaeb-a12c7dc4d13c" />
+<img width="537" height="552" alt="image" src="https://github.com/user-attachments/assets/704d93fa-e0c6-49a1-a837-5993b070b2ef" />
+<img width="960" height="579" alt="image" src="https://github.com/user-attachments/assets/aa62459e-80cb-4e1a-8283-3f1a8746e98a" />
+<img width="998" height="629" alt="image" src="https://github.com/user-attachments/assets/c1f85100-f8c3-4d7f-b6fe-7297fa09f6f9" />
+<img width="1012" height="673" alt="image" src="https://github.com/user-attachments/assets/b6e5abae-3f40-4f5a-8caa-8eecd4e80216" />
+<img width="901" height="656" alt="image" src="https://github.com/user-attachments/assets/41cce102-f5e9-4ac7-bfbf-6b1e1751ecd7" />
+<img width="922" height="444" alt="image" src="https://github.com/user-attachments/assets/0f6d52d4-6540-440d-887a-577c9d7ce642" />
+<img width="944" height="517" alt="image" src="https://github.com/user-attachments/assets/c1f42cf3-0c4d-4a50-a648-627585e88128" />
+<img width="962" height="651" alt="image" src="https://github.com/user-attachments/assets/9eebc211-ee98-4ca4-bbd9-7929d6c601e6" />
+<img width="805" height="608" alt="image" src="https://github.com/user-attachments/assets/fe218486-25cc-4165-8b6a-9dbc2568ec24" />
