@@ -1,6 +1,8 @@
 # OpenFlighController
 A Pixhawk-like flight controller made from scratch for fun, using an STM32H743 main flight MCU, a dedicated IO MCU, redundant motion sensors, barometers, CAN, Ethernet, SD logging, FRAM storage, and protected aircraft I/O.
 
+EASYEDA LINK for macondo reviewers- https://u.easyeda.com/join?type=project&key=2c0e2fa679abcafb98220dea7d7db287&inviter=3d0033e0d0a04fe88f26aec1c4ce7725
+
 <img width="1013" height="638" alt="image" src="https://github.com/user-attachments/assets/1019e9f5-a65e-44e4-9d5f-c5e1656152b9" />
 <img width="726" height="548" alt="image" src="https://github.com/user-attachments/assets/9d7cb7ee-081a-48d6-a15b-4174e44a4c4a" />
 
